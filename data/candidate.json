@@ -1,0 +1,27 @@
+{
+  "name": "Om Shivsharan",
+  "headline": "Computer Engineering Student and AI Engineer",
+  "education": {
+    "degree": "B.E. Computer Engineering",
+    "college": "PDEA's College of Engineering, Manjari",
+    "university": "Savitribai Phule Pune University",
+    "graduation_year": 2027,
+    "cgpa": "TODO"
+  },
+  "skills": {
+    "programming": [],
+    "frontend": [],
+    "backend": [],
+    "database": [],
+    "ai_ml": []
+  },
+  "projects": [],
+  "experience": [],
+  "achievements": [],
+  "certifications": [],
+  "social_links": {
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  }
+}
